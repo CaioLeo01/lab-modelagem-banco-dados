@@ -1,4 +1,4 @@
-use bancozero;
+use bibliotecapessoal;
 
 CREATE TABLE livro(
 id_livro int auto_increment primary key,
